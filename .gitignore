@@ -1,0 +1,16 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Java build
+*.class
+target/
