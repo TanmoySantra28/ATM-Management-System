@@ -74,10 +74,10 @@ This project is ideal for learning Java OOP, Swing, Database Connectivity (JDBC)
 
 ## 📸 Screenshots
 
-<img width="455" alt="Screenshot (1161)" src="https://github.com/user-attachments/assets/84152a37-841b-4b70-a373-598da5362672" /> <img width="455" alt="Screenshot (1162)" src="https://github.com/user-attachments/assets/97bd0cb2-1f83-44e0-83d9-8144b1cc3a74" />
-<img width="455" alt="Screenshot (1163)" src="https://github.com/user-attachments/assets/ee50aaa2-d84d-47c4-ad6c-fd7e38c6b2bc" /> <img width="455" alt="Screenshot (1164)" src="https://github.com/user-attachments/assets/5c59502c-01be-404e-b6d0-ab85f5fd37d4" />
-<img width="455" alt="Screenshot (1165)" src="https://github.com/user-attachments/assets/9fa1aa6a-1719-47f5-8cfe-20a8b05b8fb8" /> <img width="455" alt="Screenshot (1166)" src="https://github.com/user-attachments/assets/6dc7fe01-271e-4a40-aa21-ad1dd920d018" />
-<img width="455" alt="Screenshot (1167)" src="https://github.com/user-attachments/assets/193631a1-4452-483c-ada2-de67ab722bc1" />
+<img width="450" alt="Screenshot (1161)" src="https://github.com/user-attachments/assets/84152a37-841b-4b70-a373-598da5362672" /> <img width="450" alt="Screenshot (1162)" src="https://github.com/user-attachments/assets/97bd0cb2-1f83-44e0-83d9-8144b1cc3a74" />
+<img width="450" alt="Screenshot (1163)" src="https://github.com/user-attachments/assets/ee50aaa2-d84d-47c4-ad6c-fd7e38c6b2bc" /> <img width="450" alt="Screenshot (1164)" src="https://github.com/user-attachments/assets/5c59502c-01be-404e-b6d0-ab85f5fd37d4" />
+<img width="450" alt="Screenshot (1165)" src="https://github.com/user-attachments/assets/9fa1aa6a-1719-47f5-8cfe-20a8b05b8fb8" /> <img width="450" alt="Screenshot (1166)" src="https://github.com/user-attachments/assets/6dc7fe01-271e-4a40-aa21-ad1dd920d018" />
+<img width="450" alt="Screenshot (1167)" src="https://github.com/user-attachments/assets/193631a1-4452-483c-ada2-de67ab722bc1" />
 
 ## 🗂 Project Structure
 
